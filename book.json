@@ -1,0 +1,17 @@
+{
+    "title": "我的个人博客",
+    "author": "你的名字",
+    "description": "个人技术博客与思考",
+    "language": "en",
+    "plugins": [
+      "-lunr",
+      "-search",
+      "search-pro",
+      "back-to-top-button",
+      "code",
+      "expandable-chapters"
+    ],
+    "pluginsConfig": {
+      "expandable-chapters":{}
+    }
+  }
