@@ -1,6 +1,7 @@
 # 目录
 
 * [首页](README.md)
+* [Git+Honkit 打造个人网站工作流](Honkit.md)
 
 ## 系列1
 * [系列1介绍](series1/README.md)
